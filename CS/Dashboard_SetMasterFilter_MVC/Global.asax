@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="Dashboard_SetMasterFilter_MVC.MvcApplication" Language="C#" %>

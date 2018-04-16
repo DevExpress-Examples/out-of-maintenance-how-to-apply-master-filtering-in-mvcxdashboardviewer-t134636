@@ -1,0 +1,9 @@
+@using (Html.BeginForm()) {
+    @Html.Action("DashboardViewerPartial")
+}
+@Html.DevExpress().Button(settings => {
+    settings.Name = "Button";
+    settings.Text = "SetMasterFilter";
+    settings.UseSubmitBehavior = true;
+    settings.ClientSideEvents.Click = "function(s, e) { onButtonClick(s, e); }";
+}).GetHtml()
