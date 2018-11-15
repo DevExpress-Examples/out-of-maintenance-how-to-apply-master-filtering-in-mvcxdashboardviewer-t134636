@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MasterFilter.js](./CS/Dashboard_SetMasterFilter_MVC/Scripts/MasterFilter.js) (VB: [MasterFilter.js](./VB/Dashboard_SetMasterFilter_MVC/Scripts/MasterFilter.js))
+* [Index.cshtml](./CS/Dashboard_SetMasterFilter_MVC/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to apply master filtering in MVCxDashboardViewer
 
 
