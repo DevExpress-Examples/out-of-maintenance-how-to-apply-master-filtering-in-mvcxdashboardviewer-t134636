@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to apply master filtering in MVCxDashboardViewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t134636)**
+**[[Run Online]](https://codecentral.devexpress.com/t134636/)**
 <!-- run online end -->
 
 
